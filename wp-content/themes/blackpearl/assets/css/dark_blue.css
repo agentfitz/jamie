@@ -1,0 +1,475 @@
+/*-*-*-*-* Dark Red *-*-*-*-*/
+
+/********** General **********/
+
+body
+{
+	background-color: #585858; /* Dark Theme Style */
+	color: #8c8c8c;	/* Dark Theme Style */
+}
+
+::selection {
+	background: #aedaef; 
+	color: #000;
+}
+
+::-moz-selection {
+	background: #aedaef; /* Firefox */
+	color: #000;
+}
+
+a 
+{
+    color: #fff;	/* Dark Theme Style */
+}	
+
+a:hover
+{
+	color: #2c8cb9;
+}
+
+#wrap_header
+{
+	background: #000;	/* Dark Theme Style */
+}
+
+#wrap_main, #wrap_intro
+{
+	background: #1e1e1e;	/* Dark Theme Style */
+}
+
+#wrap_intro.portfolio
+{
+	background-color: #000;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	color:#fff;
+}
+
+.top_left	
+{
+	background: url(../img/dark/top_left_dark.png) no-repeat transparent;	/* Dark Theme Style */
+}
+
+.bottom_right
+{
+	background: url(../img/dark/down_right_dark.png) no-repeat transparent; /* Dark Theme Style */
+}
+
+/********** Header **********/
+
+.navigation li ul,
+.navigation > ul > li.current-menu-item,
+.navigation > ul > li.current-menu-parent
+{
+	border-color: #2c8cb9;
+}
+
+.navigation li ul li a:hover
+{
+	color: #2c8cb9 !important;
+}
+
+.intro h1
+{
+	color:#fff; /* Dark Theme Style */
+}
+
+/********** Footer **********/
+
+footer
+{
+	border-color: #2c8cb9;
+}
+
+#top_button
+{
+	background-color: #2c8cb9;
+}
+
+#top_button:hover
+{
+	background-color: #00589b;
+}
+
+#footer_content
+{
+	background-color: #000; /* Dark Theme Style */
+}
+
+#footer_bottom
+{
+	background-color: #1e1e1e; /* Dark Theme Style */
+}
+
+#footer_content .search input[type="submit"],
+#footer_content .search input[type="text"]
+{
+	background-color: #0f0f0f; /* Dark Theme Style */
+} 
+
+/********** Home Page **********/
+
+.special_intro .titles li .circle
+{
+	background: url(../img/dark/circle_gray_dark.png) no-repeat transparent center; /* Dark Theme Style */
+	color: #1e1e1e;
+	height: 27px;
+}
+
+.agency .special_intro .titles a.selected .circle,
+.special_intro .titles li:hover .circle
+{
+	background: url(../img/dark/circle_gray_dark_hover.png) no-repeat transparent center; /* Dark Theme Style */
+} 
+
+.agency .special_intro .titles a 
+{
+	color: #444; /* Dark Theme Style */
+}
+
+.special_intro .titles li:hover a,
+.agency .special_intro .titles a.selected
+{
+	color: #fff; /* Dark Theme Style */
+}
+
+.agency .special_intro .line
+{
+	border-color: #000; /* Dark Theme Style */
+	background: url(../img/dark/hover_arrow_dark.png) no-repeat transparent 0 18px;
+}
+
+.special_intro .titles li
+{
+	border-color: #000; /* Dark Theme Style */
+}
+
+.special_intro .heading1, .our_team .head
+{
+	color: #fff; /* New */
+}
+
+#tagline
+{
+	background: #171717; /* Dark Theme Style */
+}
+
+.slogan 
+{
+	color: #696969; /* Dark Theme Style */
+}
+
+.latest_blog_post .box .meta
+{
+	background: #00589b;
+}
+
+/********** Item Meta **********/
+
+.touch-slider .item_meta .description
+{
+	color:#d4d4d4;
+}
+
+.touch-slider .item_meta .separator
+{
+	border-color: #2c8cb9;
+}
+
+.touch-slider .item_meta:hover .separator
+{
+	border-color: #000;
+}
+
+.touch-slider .item_meta .category
+{
+	color: #6d6d6d;
+}
+
+.item_meta .separator
+{
+	border-color: #2c8cb9;
+}
+
+.item_meta .description
+{
+	color:#d4d4d4;
+}
+
+.item_meta:hover .description
+{
+  color:#2c8cb9;
+}
+
+.item_meta .category
+{
+	color: #6d6d6d;
+}
+
+.item_meta,
+.touch-slider .slide .meta_bg
+{
+	background-color: #000;
+}
+
+/********** About Us **********/
+
+.page-template-template-about-php .main-head
+{
+	background: url("../img/dark/corner_top_left_dark.png") no-repeat scroll left top transparent; /* Dark Theme Style */
+}
+
+.page-template-template-about-php .main-head div
+{
+	background-color: #1E1E1E; /* Dark Theme Style */
+}
+
+.page-template-template-about-php .heading h1
+{
+	color: #393939; /* Dark Theme Style */
+}
+
+/********** Blog **********/
+
+.blog .post_title
+{
+	color:#fff; /* Dark Theme Style */
+}
+
+.blog .post_title:hover
+{
+	color:#2c8cb9;
+}
+
+.blog .post_meta .post_icon
+{
+	background-color: #00589b;
+}
+
+.blog .post_meta .post_date
+{
+	background-color: #2c8cb9;
+}
+
+.blog .post_meta .info a
+{
+	color: #ccc;  /* Dark Theme Style */
+}
+
+.blog .post_meta .info a:hover
+{
+	color:#2c8cb9;
+}
+
+.blog .post_meta .label
+{
+	color: #a8a8a8; /* Dark Theme Style */
+}
+
+.latest_blog_post .title
+{
+	color: #fff; /* Dark Theme Style */
+}
+
+.latest_blog_post .title:hover
+{
+	color: #2c8cb9;
+}
+
+#footer_content .widget_nav_menu a:hover, 
+#footer_content .widget_nav_menu .current-menu-item > a
+{
+	background-color: #222; /* Dark Theme Style */
+}
+
+.latest_blog_post .title:hover
+{
+	color: #2c8cb9;
+}
+
+.blog .separator,
+.latest_blog_post .separator
+{
+	background:#696969; /* Dark Theme Style */
+}
+
+.sidebar .widget {
+    margin-bottom:40px;
+	background:url(../img/dark/separator.png) repeat-x left bottom; /* Dark Theme Style */ /* NEW */
+	padding-bottom: 20px;
+}
+
+.widget_bp_recent_works_widget .item_button
+{
+	background-color: #2c8cb9;
+}
+
+.widget_nav_menu a:hover, .widget_nav_menu .current-menu-item > a 
+{
+	background-color: #000; /* Dark Theme Style */
+}
+
+.comment_list .comment .meta .comment-reply-login, /* New */
+.comment_list .comment .meta .comment-reply-link,
+.cancel-comment-reply a
+{
+	color: #2c8cb9;
+}
+
+.comment_list .comment .meta cite,
+.comment_list .comment .meta .says
+{
+	color:#a8a8a8;
+}
+
+.comment_list .comment_border .comment .meta .name
+{
+	color: #a8a8a8; /* Dark Theme Style */
+}
+
+.comment_list .comment_image .mask
+{
+	background: url("../img/dark/comment_img_footer.png") no-repeat scroll center bottom transparent; /* Dark Theme Style */
+}
+
+/********** Portfolio **********/
+
+.portfolio .intro .meta
+{
+	color: #00589b;
+}
+
+.subnavigation a
+{
+	background-color:#191919;	/* Dark Theme Style */
+}
+
+.subnavigation a.current
+{
+	background-color: #2c8cb9;
+}
+
+#portfolio_styles a
+{
+	background-color: #101010 !important; /* Dark Theme Style */
+} 
+
+#portfolio_styles a.current
+{
+	background-color: #00589b !important;
+}
+
+.portfolio .content .navigator .previous:hover,
+.portfolio .content .navigator .next:hover
+{
+	background-color: #2c8cb9;
+}
+
+/********** Button **********/
+
+.btn,
+.button_tailed .text
+{
+	background-color: #2c8cb9 !important;
+}
+
+.button_tailed .tail
+{
+	background: url("../img/blue/button_tail.png") no-repeat scroll 0 0 transparent;
+}
+
+/********** Glyphicons *********/
+
+[class^="icon-"],
+[class*=" icon-"]
+{
+	background-image: url("../img/glyphicons-halflings-white.png"); /* Dark Theme Style */
+}
+
+/********* Dropcaps **********/
+
+.dropcap, .dropcap2, .dropcap3
+{
+	color:#fff; /* Dark Theme Style */
+}
+
+.dropcap2
+{
+	background: url("../img/dark/dropcap1.png") no-repeat scroll left top transparent; /* Dark Theme Style */
+}
+
+.dropcap3
+{
+	background: url("../img/dark/dropcap2.png") no-repeat scroll left top transparent; /* Dark Theme Style */
+}
+
+/********** Blockquotes **********/
+
+blockquote, .pullquote, .pullquote_right
+{
+	color:#9c9c9c; /* Dark Theme Style */
+}
+
+/********* Highlights **********/
+
+.highlight_orange
+{
+	background-color:#2c8cb9;
+}
+
+/********** Message Box **********/
+
+.messageBox3 .head
+{
+	background: #2c8cb9;
+}
+
+/********** Tabs **********/
+
+.tab1 .tab_head a.selected span
+{
+	background: url("../img/dark/tab2_selected.png") no-repeat scroll left top transparent; /* Dark Theme Style */
+}
+
+.tab1 .tab_head a.selected
+{
+	background: url("../img/dark/tab2_selected.png") no-repeat scroll right top transparent; /* Dark Theme Style */
+}
+
+.tab_head a
+{
+	border-color: #898989; /* Dark Theme Style */
+} 
+
+/********** Lists **********/
+
+.disk_list li
+{
+	background: url("../img/dark/bullet1.png") no-repeat scroll left 7px transparent; /* Dark Theme Style */
+}
+
+.arrow2_list li
+{
+	background: url("../img/dark/bullet4.png") no-repeat scroll left 6px transparent; /* Dark Theme Style */
+}
+
+.arrow2_list li ul li
+{
+	background-image: url("../img/dark/bullet4_sub1.png"); /* Dark Theme Style */
+}
+
+/********** Accordion **********/
+
+.accordion_title a
+{
+	color: #a8a8a8; /* Dark Theme Style */
+}
+
+/********** WP Gallery Shortcode **********/
+
+.gallery .gallery-icon img{
+    border:5px solid #3e3e3e !important;
+}

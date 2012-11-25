@@ -1,0 +1,1854 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: blackpearl/index.php:61
+#: blackpearl/index.php:125
+#: blackpearl/archive.php:89
+#: blackpearl/archive.php:153
+#: blackpearl/search.php:57
+#: blackpearl/search.php:121
+#: blackpearl/comments - Copy.php:64
+#: blackpearl/comments.php:78
+#: blackpearl/single.php:64
+#: blackpearl/single.php:125
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:28
+#: blackpearl/comments.php:42
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:160
+#: blackpearl/archive.php:188
+#: blackpearl/search.php:156
+#: blackpearl/single.php:166
+msgid "&larr; Older Entries"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:26
+#: blackpearl/comments.php:40
+msgid "(Author)"
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:28
+#: blackpearl/comments.php:42
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:61
+#: blackpearl/archive.php:89
+#: blackpearl/search.php:57
+#: blackpearl/single.php:64
+msgid "0"
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:61
+#: blackpearl/index.php:125
+#: blackpearl/archive.php:89
+#: blackpearl/archive.php:153
+#: blackpearl/search.php:57
+#: blackpearl/search.php:121
+#: blackpearl/single.php:64
+#: blackpearl/single.php:125
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:25
+#: blackpearl/comments.php:39
+msgid "<cite>%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-video.php:1
+msgid "A widget that displays your YouTube or Vimeo Video."
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "Add New Member"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "Add New Portfolio"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "Add New Slide"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/template-contact.php:39
+#: blackpearl/lib/admin/forms.php:270
+msgid "Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:171
+msgid "Address Line 1"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:177
+msgid "Address Line 2"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:84
+msgid "Address:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:42
+msgid "Advanced Options"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:767
+msgid "Advanced Settings"
+msgstr ""
+
+#. Text in function
+#: blackpearl/archive.php:177
+msgid "All posts in %s"
+msgstr ""
+
+#. Text in function
+#: blackpearl/archive.php:177
+msgid "All posts tagged %s"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contact.php:52
+#: blackpearl/template-contact.php:73
+msgid "An error has been occurred while sending message."
+msgstr ""
+
+#. Text in function
+#: blackpearl/archive.php:177
+msgid "Archive for %"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/index.php:58
+#: blackpearl/index.php:120
+#: blackpearl/archive.php:86
+#: blackpearl/archive.php:148
+#: blackpearl/search.php:54
+#: blackpearl/search.php:116
+#: blackpearl/single.php:61
+#: blackpearl/single.php:120
+msgid "Author"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:249
+msgid "Background Map"
+msgstr ""
+
+#. Text in function
+#: blackpearl/archive.php:177
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:400
+msgid "Blog Intro"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:31
+msgid "Blog Page"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:377
+msgid "Blog Page Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:159
+msgid "Cell Phone"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:64
+msgid "Cell Phone:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:732
+msgid "Choose links color to override current skin color settings."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:743
+msgid "Choose links hover color to override current skin color settings."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:754
+msgid "Choose text selection color to override current skin color settings."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:713
+msgid "Choose your skin color from several ready to use skins here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:124
+#: blackpearl/comments.php:138
+msgid "Comments are closed for this article."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:121
+#: blackpearl/comments.php:135
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:99
+#: blackpearl/comments.php:113
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:96
+#: blackpearl/comments.php:110
+msgid "Comments are now closed."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/index.php:60
+#: blackpearl/index.php:124
+#: blackpearl/archive.php:88
+#: blackpearl/archive.php:152
+#: blackpearl/search.php:56
+#: blackpearl/search.php:120
+#: blackpearl/single.php:63
+#: blackpearl/single.php:124
+msgid "Comments:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:349
+msgid "Contact Email Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:358
+msgid "Contact Email Subject"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:367
+msgid "Contact Email Template"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/template-contact.php:43
+msgid "Contact Info"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:280
+msgid "Contact Information"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:30
+msgid "Contact Page"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:235
+msgid "Contact Page Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:366
+msgid "Contact form email template. You can use [Name] , [Sender] and [Message] tags to format your message. Please note that without [Message] tag you will not receive the message sent by user."
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:135
+#: blackpearl/archive.php:163
+#: blackpearl/search.php:131
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:510
+msgid "Copyright Text"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:790
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:73
+msgid "Custom Favicon"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:780
+msgid "Custom Javascript"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:82
+msgid "Custom Logo"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:113
+msgid "Custom Sidebar"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:48
+msgid "Demo Content"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:590
+msgid "Digg Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-flickr.php:108
+msgid "Display (random or latest):"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-contact.php:1
+msgid "Displays an email contact form"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-search.php:1
+msgid "Displays custom search form"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-contactinfo.php:1
+msgid "Displays your contact information"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-flickr.php:1
+msgid "Displays your flickr photo stream"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-advertisement.php:1
+msgid "Displays your image ads"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-recent-works.php:1
+msgid "Displays your recent items in portfolio"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-twitter.php:1
+msgid "Displays your recent tweets"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:15
+msgid "Documentation"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:550
+msgid "Dribbble Address"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "Edit Member"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "Edit Portfolio"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "Edit Slide"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contact.php:38
+#: blackpearl/template-contact.php:59
+msgid "Email Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:160
+#: blackpearl/comments.php:104
+msgid "Email Address (never published)"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:74
+msgid "Email:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:319
+msgid "Enable or disable SMTP authentication. Default is using authentication."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:412
+msgid "Enable or disable load more button in post list"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:138
+msgid "Enable or disable portfolio section"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:170
+msgid "Enable or disable recent posts section before the footer"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:181
+msgid "Enable or disable slider"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:299
+msgid "Enter SMTP port number. If not sure, leave it to default. Default port is 25"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:399
+msgid "Enter default blog intro and description here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:509
+msgid "Enter the copyright text in footer here. You can clear the field to hide copyright text from footer section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:589
+msgid "Enter your Digg address here. You can clear the field to hide Digg icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:549
+msgid "Enter your Dribbble address here. You can clear the field to hide Dribbble icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:529
+msgid "Enter your Facebook address here. You can clear the field to hide Facebook icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:669
+msgid "Enter your Flickr address here. You can clear the field to hide Flickr icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:619
+msgid "Enter your Forrst address here. You can clear the field to hide Forrst icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:579
+msgid "Enter your GooglePlus address here. You can clear the field to hide GooglePlus icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:659
+msgid "Enter your Lastfm address here. You can clear the field to hide Lastfm icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:609
+msgid "Enter your Linkedin address here. You can clear the field to hide Linkedin icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:679
+msgid "Enter your Myspace address here. You can clear the field to hide Myspace icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:649
+msgid "Enter your Quora address here. You can clear the field to hide Quora icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:639
+msgid "Enter your Rss Feed address here. You can clear the field to hide Rss Feed icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:339
+msgid "Enter your SMTP account password here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:330
+msgid "Enter your SMTP account username here. (eg info@domain.com)"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:290
+msgid "Enter your SMTP host address here. eg: smtp.domain.com"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:629
+msgid "Enter your Sharethis address here. You can clear the field to hide Sharethis icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:599
+msgid "Enter your Tumblr address here. You can clear the field to hide Tumblr icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:539
+msgid "Enter your Twitter address here. You can clear the field to hide Twitter icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:559
+msgid "Enter your Vimeo address here. You can clear the field to hide Vimeo icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:569
+msgid "Enter your YouTube address here. You can clear the field to hide YouTube icon from social networks section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:269
+msgid "Enter your company address. You can clear the field to hide the address section"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:279
+msgid "Enter your company contact information. You can clear the field to hide the contact information section"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:789
+msgid "Enter your custom css codes here to override or add to the default stylesheet."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:779
+msgid "Enter your custom javascript codes here.(eg Google Analytics)"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:348
+msgid "Enter your email address here. Normally its the same as your SMTP account username"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:357
+msgid "Enter your email subject here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:248
+msgid "Enter your map address and zoom levels. Zoom value can be from 1 to 19 where 19 is the greatest and 1 the smallest."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:160
+msgid "Enter your slogan here. You can clear the field to hide slogan section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/404.php:12
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:530
+msgid "Facebook Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:670
+msgid "Flickr Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-flickr.php:84
+msgid "Flickr ID:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-twitter.php:102
+msgid "Follow Text e.g Follow @pixflow"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:33
+#: blackpearl/lib/admin/forms.php:489
+msgid "Footer"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:475
+msgid "Footer Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:500
+msgid "Footer Widget Areas"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:620
+msgid "Forrst Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:28
+msgid "General"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:60
+msgid "General Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:580
+msgid "GooglePlus Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:112
+msgid "Here you can add custome sidebar that later can be used in pages. You could also customize sidebar widgets in widgets panel."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:101
+msgid "Here you can disable the sidebar or choose the sidebar position in the pages which has sidebar."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:389
+msgid "Here you can disable the sidebar or choose the sidebar position in the pages which have sidebar."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:70
+msgid "Here you can select between slide image or a video from YouTube/Vimeo or none of them."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:29
+msgid "Home Page"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:125
+msgid "Home Page Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-advertisement.php:108
+msgid "How many advertisement to display?"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:815
+msgid "If you are new to wordpress or have problems creating posts or pages that look like the theme preview you can import dummy posts and pages here that will definitley help to understand how those tasks are done. Please note that this will override theme options as well, so be careful."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-advertisement.php:133
+msgid "Image sizes should be exactly <br />125px * 125px"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:802
+msgid "Import Dummy Content"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:816
+msgid "Import Dummy Data"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:51
+msgid "Import Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/index.php:62
+#: blackpearl/index.php:122
+#: blackpearl/archive.php:90
+#: blackpearl/archive.php:150
+#: blackpearl/search.php:58
+#: blackpearl/search.php:118
+#: blackpearl/single.php:65
+#: blackpearl/single.php:122
+msgid "In"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/admin/mediabox-strings.php:1
+msgid "Insert"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/admin/mediabox-strings.php:1
+msgid "Insert Favicon"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/admin/mediabox-strings.php:1
+msgid "Insert Image"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/admin/mediabox-strings.php:1
+msgid "Insert Logo"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-page-meta-forms.php:39
+#: blackpearl/lib/theme-post-meta-forms.php:39
+#: blackpearl/lib/theme-portfolio-meta-forms.php:51
+msgid "Introduce Text (Under the page header), default option shows current post title"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:141
+msgid "Introduction Text"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "Job Title"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "Job Titles"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:660
+msgid "Lastfm Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:451
+msgid "Layout Controls"
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:137
+msgid "Leave a Comment"
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:137
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:704
+msgid "Light/Dark Skins"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:134
+msgid "Link Button"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:133
+msgid "Link to other pages (optional), if text is empty, no buttons will be shown"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:610
+msgid "Linkedin Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:733
+msgid "Links Color"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:744
+msgid "Links Hover Color"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-scripts.php:
+msgid "Load More"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:413
+msgid "Load More Button"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-scripts.php:
+msgid "Loading..."
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:153
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:153
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:331
+msgid "Mail Account"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:340
+msgid "Mail Account Password"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:291
+msgid "Mail Host"
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:149
+msgid "Modern Blog"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:680
+msgid "Myspace Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:147
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "New Item"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "New Member"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "New Portfolio"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "New Slide"
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:161
+#: blackpearl/archive.php:189
+#: blackpearl/search.php:157
+#: blackpearl/single.php:167
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:125
+#: blackpearl/archive.php:153
+#: blackpearl/search.php:121
+#: blackpearl/comments - Copy.php:64
+#: blackpearl/comments.php:78
+#: blackpearl/single.php:125
+msgid "No Comments"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "No Items found"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "No Items found in Trash"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-scripts.php:
+msgid "No More Posts"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/search.php:145
+msgid "No Results Found"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "No Slides found"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "No Slides found in Trash"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:111
+#: blackpearl/comments.php:125
+msgid "No comments so far."
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "No members found"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "No members found in Trash"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "No portfolios found"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-advertisement.php:113
+msgid "Note: Please input FULL URL <br/>(e.g. <code>http://www.example.com</code>)"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-recent-works.php:92
+msgid "Number Of Recent Works:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-twitter.php:96
+msgid "Number Of Tweets:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-flickr.php:90
+msgid "Number of Photos:"
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:64
+#: blackpearl/comments.php:78
+msgid "One Comment"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/template-about.php:65
+msgid "Our Team"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-page-meta-forms.php:40
+#: blackpearl/lib/theme-post-meta-forms.php:40
+#: blackpearl/lib/theme-portfolio-meta-forms.php:52
+msgid "Page Introduce"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-page-meta.php:1
+msgid "Page Options"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:102
+msgid "Pages Sidebar Position"
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:35
+#: blackpearl/archive.php:63
+#: blackpearl/search.php:31
+msgid "Permanent Link to %s"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:153
+msgid "Phone"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:54
+msgid "Phone:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-search.php:77
+msgid "Placeholder:"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "Portfolio"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-portfolio-meta-forms.php:73
+msgid "Portfolio Images"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:440
+msgid "Portfolio List Layout"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-meta.php:1
+msgid "Portfolio Options"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:32
+msgid "Portfolio Page"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:426
+msgid "Portfolio Page Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:139
+msgid "Portfolio Slider"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-post-meta.php:1
+msgid "Post Options"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-post-meta-forms.php:61
+msgid "Post Type"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-post-meta-forms.php:60
+msgid "Post Type, Affects the post heading media and icon: Image, Video and Document, default is Image"
+msgstr ""
+
+#. Text in function
+#: blackpearl/archive.php:177
+msgid "Posts by %"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-menus.php:1
+msgid "Primary Navigation"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:650
+msgid "Quora Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:171
+msgid "Recent Blog Posts"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:462
+msgid "Related Portfolios Count"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/single-portfolio.php:108
+msgid "Related Projects"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:92
+msgid "Responsive Layout"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:640
+msgid "Rss Feed Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:805
+msgid "SAVE"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:320
+msgid "SMTP Authentication"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:300
+msgid "SMTP Port"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:309
+msgid "SMTP Security"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "Search Item"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "Search Member"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "Search Portfolio"
+msgstr ""
+
+#. Text in function
+#: blackpearl/search.php:145
+msgid "Search Results for '%s'"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "Search Slides"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:308
+msgid "Select SMTP security here (SSL and TLS). Default is none."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-page-meta-forms.php:60
+msgid "Select a custom sidebar for your page that is defined in theme\\'s option panel. You could use default page sidebar as well."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:499
+msgid "Select how many widget areas you like to have in footer"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:461
+msgid "Select number of related portfolio items in item details page"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:755
+msgid "Selection Highlight Color"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contact.php:48
+#: blackpearl/template-contact.php:69
+#: blackpearl/comments - Copy.php:173
+#: blackpearl/lib/theme-scripts.php:
+msgid "Send"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:39
+#: blackpearl/lib/admin/forms.php:45
+msgid "Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:630
+msgid "Sharethis Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:450
+msgid "Show or hide portfolio layout controls"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-page-meta-forms.php:61
+msgid "Sidebar"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:390
+msgid "Sidebar Position"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "Skill Type"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "Skill Types"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:36
+msgid "Skin Managment"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:691
+msgid "Skin Settings"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "Slide"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:114
+msgid "Slide Background"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:222
+msgid "Slide Background Fade Speed"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:113
+msgid "Slide Background, Could be image or color, default value shows slider default background."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:71
+msgid "Slide Image/Video"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:202
+msgid "Slide Item Animate-In Speed"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:212
+msgid "Slide Item Animate-Out Speed"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-meta.php:1
+msgid "Slide Options"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:221
+msgid "Slide background fade speed in milliseconds"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:201
+msgid "Slide item animate-in speed in milliseconds"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:211
+msgid "Slide item animate-out speed in milliseconds"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:191
+msgid "Slide pause time in milliseconds"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:182
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:192
+msgid "Slider Delay"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:161
+msgid "Slogan Text"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:520
+msgid "Social Networks"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/index.php:143
+#: blackpearl/archive.php:171
+#: blackpearl/single-portfolio.php:94
+#: blackpearl/single.php:153
+#: blackpearl/404.php:26
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/search.php:139
+msgid "Sorry, but you are looking for something that isn't here. Try another search"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+#: blackpearl/lib/admin/forms.php:150
+msgid "Special Intro"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:13
+msgid "Support"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:703
+msgid "Switch between Dark and Light version of the theme."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:439
+msgid "Swith between fixed and masonary portfolio layouts here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/index.php:65
+#: blackpearl/archive.php:93
+#: blackpearl/search.php:61
+#: blackpearl/single.php:68
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "Team"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:104
+msgid "Text Color"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:103
+msgid "Text Color, Default color is themes text color"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:23
+msgid "Theme Options"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:25
+msgid "Theme Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:714
+msgid "Theme Skins"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:114
+#: blackpearl/comments.php:128
+msgid "There are no comments for this article."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-portfolio-meta-forms.php:100
+msgid "These settings enable you to embed videos into your portfolio pages."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:52
+#: blackpearl/comments.php:66
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:94
+msgid "Title Color"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:93
+msgid "Title Color, Default color is themes text color"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:135
+#: blackpearl/lib/widget-recent-works.php:86
+#: blackpearl/lib/widget-advertisement.php:102
+#: blackpearl/lib/widget-flickr.php:78
+#: blackpearl/lib/widget-contact.php:85
+#: blackpearl/lib/widget-twitter.php:84
+#: blackpearl/lib/widget-video.php:84
+#: blackpearl/lib/widget-search.php:71
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:77
+#: blackpearl/comments.php:91
+msgid "Trackbacks for this post"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:600
+msgid "Tumblr Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:540
+msgid "Twitter Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-twitter.php:90
+msgid "Twitter ID:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-flickr.php:99
+msgid "Type (user or group):"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/widget-search.php:80
+msgid "Type and press enter to search"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-slider-meta-forms.php:44
+#: blackpearl/lib/theme-portfolio-meta-forms.php:35
+msgid "Upload Image"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-portfolio-meta-forms.php:72
+msgid "Upload images to be shown in portfolio detail page, you can clear the fields to delete images"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-video.php:99
+msgid "Video ID:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-video.php:105
+msgid "Video Info:"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/theme-portfolio-meta-forms.php:101
+msgid "Video Settings"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/template-portfolio.php:37
+msgid "View All"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "View Item"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "View Member"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "View Portfolio"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "View Slide"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/portfolio-walker.php:1
+msgid "View all items filed under %s"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:560
+msgid "Vimeo Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/comments - Copy.php:163
+#: blackpearl/comments.php:104
+msgid "Website (Optional)"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/template-contact.php:46
+msgid "Write to us"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:488
+msgid "You can enable or disable footer in this section."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:91
+msgid "You can enable or disable responsive layout here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:519
+msgid "You can enable or disable social network area in footer section here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:149
+msgid "You can enable or disable special intro section here."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:72
+msgid "You can specify favicon url or upload new icon with upload button."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:81
+msgid "You can specify logo url or upload new logo with upload button."
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments - Copy.php:146
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/admin/forms.php:570
+msgid "YouTube Address"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contact.php:42
+#: blackpearl/template-contact.php:63
+#: blackpearl/comments - Copy.php:168
+#: blackpearl/comments.php:149
+msgid "Your Message"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contact.php:34
+#: blackpearl/template-contact.php:55
+#: blackpearl/comments - Copy.php:157
+#: blackpearl/comments.php:104
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: blackpearl/comments.php:149
+msgid "Your email address will not be published. Website Field Is Optional"
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contact.php:53
+#: blackpearl/template-contact.php:74
+msgid "Your message has been sent successfully."
+msgstr ""
+
+#. Text in echo
+#: blackpearl/lib/widget-contactinfo.php:165
+msgid "eMail"
+msgstr ""
+
+#. Text in function
+#: blackpearl/index.php:68
+#: blackpearl/archive.php:96
+#: blackpearl/search.php:64
+#: blackpearl/single.php:71
+msgid "edit"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-portfolio-post-type.php:1
+msgid "portfolios"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-slider-post-type.php:1
+msgid "slide"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-intro-post-type.php:1
+msgid "special-intro"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/theme-team-post-type.php:1
+msgid "team"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Add the button\\'s text"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Add the button\\'s url (eg http://mysite.com)"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Add the button\\'s url (eg http://mysite.com, can be empty)"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Add the column content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Add the row content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Column Content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Column Type"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enable or Disable separator at end of contents."
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter Dropcap Text"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter MessageBox Button Title (optional)"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter MessageBox Title"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter Messagebox content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter Toggle Content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter alert Content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter highlight\\'s Text"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter pullquote Text"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter social links group content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter tab group Content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter tab title"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Enter toggle\\'s title"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Is this default tab?"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "List Type"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Offset"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Row Content"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select MessageBox Style"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the alert\\'s style"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the button\\'s style"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the button\\'s style (eg the buttons colour)"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the content padding"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the dropcap\\'s style"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the highlight\\'s style"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the pullquote\\'s style"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the separator\\'s style"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the toggle\\'s style"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the type, ie disk list"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Select the type, ie width of the offset."
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Social Link Url"
+msgstr ""
+
+#. Text in function
+#: blackpearl/lib/tinymce/shortcode_template.php:1
+msgid "Social link type"
+msgstr ""

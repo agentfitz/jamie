@@ -1,0 +1,184 @@
+/*-*-*-*-* Dark Red *-*-*-*-*/
+
+/********** General **********/
+
+::selection {
+	background: #ff6880; 
+	color: #fff;
+}
+
+::-moz-selection {
+	background: #ff6880; /* Firefox */
+	color: #fff;
+}
+
+a:hover
+{
+	color: #ce233e;
+}
+
+/********** Header **********/
+
+.navigation li ul,
+.navigation > ul > li.current-menu-item,
+.navigation > ul > li.current-menu-parent /* New */
+{
+	border-color: #ce233e;
+}
+
+.navigation li ul li a:hover
+{
+	color: #ce233e !important;
+}
+
+/********** Footer **********/
+
+footer
+{
+	border-color: #ce233e;
+}
+
+#top_button
+{
+	background-color: #ce233e;
+}
+
+#top_button:hover
+{
+	background-color: #b5001d;
+}
+
+/********** Home Page **********/
+
+.latest_blog_post .box .meta
+{
+	background: #b5001d;
+}
+
+/********** Item Meta **********/
+
+.touch-slider .item_meta .description
+{
+	color:#d4d4d4;
+}
+
+.touch-slider .item_meta .separator
+{
+	border-color: #ce233e;
+}
+
+.touch-slider .item_meta:hover .separator
+{
+	border-color: #000;
+}
+
+.touch-slider .item_meta .category
+{
+	color: #6d6d6d;
+}
+
+
+.item_meta .separator
+{
+	border-color: #ce233e;
+}
+
+.item_meta .description
+{
+	color:#d4d4d4;
+}
+
+.item_meta:hover .description
+{
+  color:#CE233E;
+}
+
+.item_meta .category
+{
+	color: #ce233e;
+}
+
+.item_meta,
+.touch-slider .slide .meta_bg
+{
+	background-color: #000;
+}
+
+/********** Blog **********/
+
+.blog .post_meta .post_date
+{
+	background-color: #ce233e;
+}
+
+.blog .post_meta .post_icon
+{
+	background-color: #b5001d;
+}
+
+.latest_blog_post .title:hover /* New */
+{
+	color: #ce233e;
+}
+
+.widget_bp_recent_works_widget .item_button /* New */
+{
+	background-color: #ce233e;
+}
+
+.comment_list .comment .meta .comment-reply-login, /* New */
+.comment_list .comment .meta .comment-reply-link,
+.cancel-comment-reply a
+{
+	color: #ce233e !important;
+}
+
+/********** Portfolio **********/
+
+.portfolio .intro .meta
+{
+	color: #ce233e;
+}
+
+.subnavigation a.current
+{
+	background-color: #ce233e;
+}
+
+#portfolio_styles a.current
+{
+	background-color: #b5001d !important;
+}
+
+.portfolio .content .navigator .previous:hover, /* New */
+.portfolio .content .navigator .next:hover
+{
+	background-color: #ce233e;
+}
+
+/********** Button **********/
+
+.btn,
+.button_tailed .text
+{
+	background-color: #ce233e !important;
+}
+
+.button_tailed .tail
+{
+	background: url("../img/red/button_tail.png") no-repeat scroll 0 0 transparent;
+}
+
+/********* Highlights **********/
+
+.highlight_orange
+{
+	background-color:#ce233e;
+}
+
+/********** Message Box **********/
+
+.messageBox3 .head
+{
+	background: #ce233e;
+}

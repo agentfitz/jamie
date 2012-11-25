@@ -1,0 +1,184 @@
+/*-*-*-*-* Dark Red *-*-*-*-*/
+
+/********** General **********/
+
+::selection {
+	background: #ff715f; 
+	color: #fff;
+}
+
+::-moz-selection {
+	background: #ff715f; /* Firefox */
+	color: #fff;
+}	
+
+a:hover
+{
+	color: #be1500;
+}
+
+/********** Header **********/
+
+.navigation li ul,
+.navigation > ul > li.current-menu-item,
+.navigation > ul > li.current-menu-parent
+{
+	border-color: #be1500;
+}
+
+.navigation li ul li a:hover
+{
+	color: #be1500 !important;
+}
+
+/********** Footer **********/
+
+footer
+{
+	border-color: #be1500;
+}
+
+#top_button
+{
+	background-color: #be1500;
+}
+
+#top_button:hover
+{
+	background-color: #e63822;
+}
+
+/********** Home Page **********/
+
+.latest_blog_post .box .meta
+{
+	background: #e63822;
+}
+
+/********** Item Meta **********/
+
+.touch-slider .item_meta .description
+{
+	color:#d4d4d4;
+}
+
+.touch-slider .item_meta .separator
+{
+	border-color: #be1500;
+}
+
+.touch-slider .item_meta:hover .separator
+{
+	border-color: #000;
+}
+
+.touch-slider .item_meta .category
+{
+	color: #6d6d6d;
+}
+
+
+.item_meta .separator
+{
+	border-color: #be1500;
+}
+
+.item_meta .description
+{
+	color:#d4d4d4;
+}
+
+.item_meta:hover .description
+{
+  color:#be1500;
+}
+
+.item_meta .category
+{
+	color: #6d6d6d;
+}
+
+.item_meta,
+.touch-slider .slide .meta_bg
+{
+	background-color: #000;
+}
+
+/********** Blog **********/
+
+.blog .post_meta .post_icon
+{
+	background-color: #e63822;
+}
+
+.blog .post_meta .post_date
+{
+	background-color: #be1500;
+}
+
+.latest_blog_post .title:hover
+{
+	color: #be1500;
+}
+
+.widget_bp_recent_works_widget .item_button
+{
+	background-color: #be1500;
+}
+
+.comment_list .comment .meta .comment-reply-login,
+.comment_list .comment .meta .comment-reply-link,
+.cancel-comment-reply a
+{
+	color: #be1500;
+}
+
+/********** Portfolio **********/
+
+.portfolio .intro .meta
+{
+	color: #e63822;
+}
+
+.subnavigation a.current
+{
+	background-color: #be1500;
+}
+
+#portfolio_styles a.current
+{
+	background-color: #e63822 !important;
+}
+
+.portfolio .content .navigator .previous:hover,
+.portfolio .content .navigator .next:hover
+{
+	background-color: #be1500;
+}
+
+/********** Button **********/
+
+.btn,
+.button_tailed .text
+{
+	background-color: #be1500 !important;
+}
+
+.button_tailed .tail
+{
+	background: url("../img/red/button_tail.png") no-repeat scroll 0 0 transparent; /* NEED CHANGE */
+}
+
+/********* Highlights **********/
+
+.highlight_orange
+{
+	background-color:#be1500;
+}
+
+/********** Message Box **********/
+
+.messageBox3 .head
+{
+	background: #be1500;
+}
